@@ -1,3 +1,4 @@
+
 # Introducing the EigenLayer Ecosystem Network - your hub for collaboration and open innovation
 
 We’re thrilled to announce the launch of the EigenLayer Ecosystem Network – an open repository meant to be used by teams within the EigenLayer ecosystem to support and create alignment with other teams within the EigenLayer ecosystem.
@@ -17,6 +18,7 @@ Projects are encouraged to update the repository with their information, includi
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
 | Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
 
+| Cyber | Cyber is a Layer 2 blockchain built for social | ricky@cyber.co | cyberlab.eth
 **To update this table, please follow these steps:**
 
 1. Navigate to the `README.md` file in the repository.
